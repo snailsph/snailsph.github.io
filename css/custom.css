@@ -26,3 +26,9 @@
   padding: 10px 33px;
   text-transform: uppercase;
 }
+
+@media(max-width:767px) {
+  .iphone-show-padding{
+    padding: 20px 0;
+  }
+}
