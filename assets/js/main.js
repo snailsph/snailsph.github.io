@@ -2,7 +2,7 @@
 
 $(document).ready(function () {
 	//Owl carousel
-    // ¸ü¶àÄ£°å£ºHttP://www.bootstrapmb.com
+    // ï¿½ï¿½ï¿½ï¿½Ä£ï¿½å£ºHttP://www.bootstrapmb.com
 	$(".process-slider").owlCarousel({
 		loop: true,
 		items: 1,
@@ -256,12 +256,12 @@ $(document).ready(function () {
 	// wow animation
 
 	//Magnifiq pupup
-	$('.video-btn').magnificPopup({
-		type: 'iframe',
-		callbacks: {
+	// $('.video-btn').magnificPopup({
+	// 	type: 'iframe',
+	// 	callbacks: {
 			
-	  	}
-	});
+	//   	}
+	// });
 	//Magnifiq pupup
 	
 	// scroll top bottom

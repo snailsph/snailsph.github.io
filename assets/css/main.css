@@ -762,7 +762,7 @@ p {
   width: 70px;
   height: 70px;
   display: block;
-  line-height: 80px;
+  line-height: 70px;
   border-radius: 50%;
   text-align: center;
 }
@@ -792,7 +792,7 @@ p {
 }
 .hero-thumb .video-btn i {
   color: var(--white-color);
-  font-size: 26px;
+  font-size: 13px;
   position: relative;
   z-index: 1;
 }
@@ -3544,7 +3544,7 @@ p {
     line-height: 50px;
   }
   .hero-thumb .video-btn i {
-    font-size: 18px;
+    font-size: 13px;
   }
   .hero-section.hero-breadcumnd {
     padding: 105px 0 105px;
