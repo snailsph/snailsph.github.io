@@ -4,7 +4,7 @@
 01. General CSS
 ---------------------------
 Section css
-¸ü¶àÄ£°å£ºHttP://www.bootstrapmb.com
+ï¿½ï¿½ï¿½ï¿½Ä£ï¿½å£ºHttP://www.bootstrapmb.com
 ---------------------------
 ---------------------------
 02. Header Section CSS
@@ -532,11 +532,18 @@ p {
   max-width: 160px;
   height: auto;
 }
-.header-wrapper .logo-menu img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
+.header-wrapper .logo-menu .logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
 }
+
+.header-wrapper .logo-menu .logo .tips {
+  font-size: 10px;
+}
+
 .header-wrapper .main-menu {
   position: relative;
   display: flex;
