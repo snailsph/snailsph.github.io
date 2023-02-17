@@ -745,7 +745,7 @@ p {
   transform: translateY(200px);
   margin-top: -200px;
   border-radius: 20px;
-  z-index: 99;
+  z-index: 1;
   width: 100%;
   position: relative;
 }
