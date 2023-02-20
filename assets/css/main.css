@@ -1188,6 +1188,7 @@ p {
 .process-items .process-content h4 {
   font-weight: 600;
   margin-bottom: 5px;
+  font-size: 24px;
 }
 .process-items .process-content p {
   color: var(--pragraph-color);
@@ -3636,7 +3637,7 @@ p {
 }
 @media (min-width: 1199px) and (max-width: 1399px) {
   .process-items .process-content h4 {
-    font-size: 26px;
+    font-size: 24px;
   }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
